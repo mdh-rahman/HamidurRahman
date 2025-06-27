@@ -1,5 +1,17 @@
-title: Hamidur Rahman Portfolio
-email: youremail@domain.com
+title: Md Hamidur Rahman
+email: hamidur.rahman@utexas.edu
 description: >-
-  Transport Planning | Accessibility | Spatial Analysis
+  Transportation Planning, Accessibility, and Spatial Data
 theme: jekyll-theme-minimal
+
+# Social links
+github_username: mdh-rahman
+linkedin_username: mdrahman13
+
+# Navigation links
+header_pages:
+  - index.md
+  - projects.md
+  - maps.md
+  - photos.md
+  - writing.md
